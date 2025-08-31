@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **juniour backend developer** with experience in **Python and JavaScript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **junior backend developer** with experience in **Python and JavaScript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Data exploration and visualization**
 - 🔭 Working on: **Predictive analysis using linear models**
